@@ -1,2 +1,2 @@
 # sample-test
-Sample Application
+Sample Test Application
